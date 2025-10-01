@@ -2,7 +2,7 @@
 
 Welcome to **F1-Ecom** – a modern, responsive e-commerce platform dedicated to selling official Formula 1 merchandise, including bags, caps, jackets, and accessories.
 
-![F1-Ecom Banner](https://github.com/Nithin0427/F1-Ecom/blob/main/public/assets/banner.jpg)
+
 
 ## 🚀 Project Overview
 
